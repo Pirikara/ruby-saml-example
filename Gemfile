@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'ruby-saml', '1.16.0'
+gem 'ruby-saml', '1.18.1'
 
 gem 'byebug'
 gem 'pry-rails'
